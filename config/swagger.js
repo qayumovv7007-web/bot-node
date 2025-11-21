@@ -11,7 +11,7 @@ const options = {
     },
     servers: [
       {
-        url: "https://lesson-bot-node.onrender.com/api",
+        url: "https://bot-node-kpcv.onrender.com/api",
         description: "Development server",
       },
       {
